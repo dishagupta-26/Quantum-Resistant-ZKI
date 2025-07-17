@@ -43,6 +43,6 @@ cd quantm
 pip install -r requirements.txt
 ```
 
-### Collaboration Note
+## Collaboration Note
 Originally co-developed with [@samarthsb4real](https://github.com/samarthsb4real).  
 This repo is hosted here to reflect my contributions to the project.
